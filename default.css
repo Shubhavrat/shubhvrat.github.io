@@ -412,6 +412,18 @@ h6 { font-size: 16px;}
 	margin-bottom: 16px;
 }
 
+.level{
+	text-align: center;
+}
+
+.level span{
+	border: 1px solid lightcoral;
+	background: lightcoral;
+	color: black;
+	padding: 0 20px;
+	font-family: "Poppins", sans-serif;
+}
+
 
 @media screen and (max-width: 1200px){
 	.main-container{
